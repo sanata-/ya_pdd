@@ -2,7 +2,7 @@
 
 require 'curb'
 require 'json'
-require './conf.rb'
+require './conf.rb' # use you`r own conf.rb file with token domain.name & user with password
 
 # create new_domain
 token     = @token
